@@ -1,4 +1,4 @@
-# sei-gambling
+# sei-bet
 stake and bet functionality .
 
 # sei-hackthon
